@@ -1,0 +1,15 @@
+[submodule "fork/Theano"]
+	path = fork/Theano
+	url = https://github.com/Theano/Theano
+[submodule "fork/tensorflow"]
+	path = fork/tensorflow
+	url = https://github.com/tensorflow/tensorflow
+[submodule "fork/beautifulsoup"]
+	path = fork/beautifulsoup
+	url = https://github.com/newvem/beautifulsoup
+[submodule "fork/caffe"]
+	path = fork/caffe
+	url = https://github.com/BVLC/caffe
+[submodule "fork/main"]
+	path = fork/main
+	url = https://github.com/IronLanguages/main
