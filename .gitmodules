@@ -13,3 +13,6 @@
 [submodule "fork/main"]
 	path = fork/main
 	url = https://github.com/IronLanguages/main
+[submodule "fork/grobid"]
+	path = fork/grobid
+	url = https://github.com/kermitt2/grobid
